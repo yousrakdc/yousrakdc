@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yousrakerdouchi@gmail.com**
 
-- ⚡ Fun fact **I think that I'm kind and easy to talk to.**
+- ⚡ Fun fact **I think that I'm very easy going.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
