@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yousrakerdouchi@gmail.com**
 
-- ⚡ Fun fact **I think that I'm very easy going.**
+- ⚡ Fun fact **I'm obsessed with The Office US.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
