@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousrakdc" alt="yousrakdc" /></a> </p>
 
-- 🔭 I’m currently working on [Ratazana](https://github.com/yousrakdc/ratazana_project)
+- 🔭 I’m currently working on [Ratazana](https://github.com/yousrakdc/ratazana)
 
 - 🌱 I’m currently learning **Django**
 
