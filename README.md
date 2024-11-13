@@ -2,7 +2,7 @@
   I'm Yousra</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p>A junior software developer passionate about creating efficient and user-focused applications. I enjoy working with both front-end and back-end technologies, always striving to learn and improve my skills. I have a solid foundation in software development principles and a keen interest in tackling real-world problems with code. Feel free to explore my work and connect with me.</p>
+<p>I'm all about creating efficient and user-focused applications. I enjoy working with both front-end and back-end technologies, always striving to learn and improve my skills. I have a solid foundation in software development principles and a keen interest in tackling real-world problems with code. Feel free to explore my work and connect with me.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousrakdc" alt="yousrakdc" /></a> </p>
 
