@@ -1,6 +1,4 @@
 # Hey there! I'm Yousra 💜
-<img width="600" height="200" alt="header" src="https://github.com/user-attachments/assets/d31cbcf4-f2f1-45a5-aec9-dd2f19c5bc5e" />
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=c77dff&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%9C;Coding+from+beautiful+France+%F0%9F%87%AB%F0%9F%87%B7;Creating+apps+that+spark+joy+%E2%9C%A8;Coffee+%2B+Code+%3D+Happy+Me+%E2%98%95" alt="Typing SVG" />
 </div>
