@@ -13,22 +13,23 @@ I'm a **fullstack developer** who believes code can be both powerful and pretty!
 When I'm not coding, you'll find me binge-watching The Office for the hundredth time or discovering new coffee shops! ☕
 
 ### 🌟 Currently
+- 📓 Stydying at **Holberton School Toulouse**
 - 🔮 Building something exciting with **[Ratazana](https://github.com/yousrakdc/ratazana)**
-- 📚 Deep diving into **Django** 
+- 📚 Deep diving into **Power BI** 
 - ✍️ Sharing thoughts on **[Medium](https://medium.com/@yousrakdc)**
 - 🎯 Always learning something new
 
 ### 💫 Little things about me
-- 📺 The Office US enthusiast (Jim + Pam = 💕)
+- 📺 The Office US enthusiast ("That"s what she said")
 - 🎨 UI/UX lover - pretty interfaces make my heart happy
 - 🌙 Night owl who codes best after sunset
-- 🥐 French pastries fuel my creativity
+- 🥐 Chocolatines fuel my creativity
 - 🎵 Always coding with good music on
 - 📚 Love reading tech blogs and learning new trends
 - 🌸 Obsessed with aesthetic workspaces and cute stationery
 
 ### 🎧 Coding Soundtrack
-*Currently obsessed with lo-fi hip hop, indie pop, and the occasional French café music ☕*
+*Currently obsessed with Aeromoça by Xamã*
 
 ### 💻 My Coding Setup
 - **Editor:** VS Code with a dreamy purple theme 💜
@@ -70,7 +71,7 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yousrakdc&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yousrakdc&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📊 GitHub Activity
@@ -106,7 +107,6 @@ I love connecting with fellow developers, especially other women in tech! Don't 
   <img src="https://komarev.com/ghpvc/?username=yousrakdc&color=c77dff&style=flat-square&label=visitors" alt="Profile Views" />
   
   ### Thanks for stopping by! 🌸
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
   
-  *Keep coding, keep growing, keep being awesome* ✨
+  *Keep coding, keep growing* ✨
 </div>
