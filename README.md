@@ -97,10 +97,6 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yousrakdc&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousrakdc&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
