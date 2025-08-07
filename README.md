@@ -1,6 +1,10 @@
 # Hey there! I'm Yousra 💜
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=Yousra%20Kerdouchi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20•%20France%20🇫🇷&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=c77dff&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%9C;Coding+from+beautiful+France+%F0%9F%87%AB%F0%9F%87%B7;Creating+apps+that+spark+joy+%E2%9C%A8;Coffee+%2B+Code+%3D+Happy+Me+%E2%98%95" alt="Typing SVG" />
 </div>
 
@@ -13,20 +17,26 @@ I'm a **fullstack developer** who believes code can be both powerful and pretty!
 When I'm not coding, you'll find me binge-watching The Office for the hundredth time or discovering new coffee shops! ☕
 
 ### 🌟 Currently
-- 📓 Stydying at **Holberton School Toulouse**
+- 📓 Studying at **Holberton School Toulouse**
 - 🔮 Building something exciting with **[Ratazana](https://github.com/yousrakdc/ratazana)**
 - 📚 Deep diving into **Power BI** 
 - ✍️ Sharing thoughts on **[Medium](https://medium.com/@yousrakdc)**
 - 🎯 Always learning something new
 
 ### 💫 Little things about me
-- 📺 The Office US enthusiast ("That"s what she said")
+- 📺 The Office US enthusiast ("That's what she said")
 - 🎨 UI/UX lover - pretty interfaces make my heart happy
 - 🌙 Night owl who codes best after sunset
 - 🥐 Chocolatines fuel my creativity
 - 🎵 Always coding with good music on
 - 📚 Love reading tech blogs and learning new trends
 - 🌸 Obsessed with aesthetic workspaces and cute stationery
+
+### 🗣️ Languages I Speak
+- 🇫🇷 **French** - Native
+- 🇬🇧 **English** - Fluent  
+- 🇵🇹 **Portuguese** - Fluent
+- 🇪🇸 **Spanish** - Conversational
 
 ### 🎧 Coding Soundtrack
 *Currently obsessed with Aeromoça by Xamã*
@@ -36,7 +46,7 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 - **Terminal:** Oh My Zsh with custom prompts
 - **Font:** Fira Code (those ligatures though! ✨)
 - **Workspace:** Minimalist desk with fairy lights and plants 🌿
-- **Essential:** Good coffee, lo-fi playlist, and cozy lighting
+- **Essential:** Good coffee, reggeaton playlist, and cozy lighting
 
 ---
 
@@ -59,6 +69,27 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 
 </div>
 
+### 📊 Skill Levels
+
+<div align="center">
+
+**Frontend Development**  
+![Frontend](https://img.shields.io/badge/Frontend-85%25-c77dff?style=for-the-badge&logo=&logoColor=white)
+
+**Backend Development**  
+![Backend](https://img.shields.io/badge/Backend-80%25-9d4edd?style=for-the-badge&logo=&logoColor=white)
+
+**Database Management**  
+![Database](https://img.shields.io/badge/Database-75%25-7b2cbf?style=for-the-badge&logo=&logoColor=white)
+
+**UI/UX Design**  
+![Design](https://img.shields.io/badge/UI/UX-70%25-6a0dad?style=for-the-badge&logo=&logoColor=white)
+
+**Data Analytics**  
+![Analytics](https://img.shields.io/badge/Analytics-65%25-5a189a?style=for-the-badge&logo=&logoColor=white)
+
+</div>
+
 ---
 
 ## 📈 My GitHub Journey
@@ -78,6 +109,22 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousrakdc&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+---
+
+## 🎓 Certifications & Education
+
+<div align="center">
+
+![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Holberton](https://img.shields.io/badge/Holberton%20School-FF6B35?style=for-the-badge&logo=holbertonschool&logoColor=white)
+
+</div>
+
+**🎯 Currently Studying:** Software Engineering at Holberton School Toulouse  
+**📊 Certified in:** Google Data Analytics Professional Certificate  
+**🔬 Completed:** IBM Introduction to Data Science
 
 ---
 
