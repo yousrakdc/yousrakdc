@@ -23,6 +23,21 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 - 🎨 UI/UX lover - pretty interfaces make my heart happy
 - 🌙 Night owl who codes best after sunset
 - 🥐 French pastries fuel my creativity
+- 🎵 Always coding with good music on
+- 📚 Love reading tech blogs and learning new trends
+- 🌸 Obsessed with aesthetic workspaces and cute stationery
+
+### 🎧 Currently Vibing To
+<div align="center">
+  <img src="https://spotify-now-playing-yousrakdc.vercel.app/api/spotify-playing" width="350" alt="Spotify Now Playing" />
+</div>
+
+### 💻 My Coding Setup
+- **Editor:** VS Code with a dreamy purple theme 💜
+- **Terminal:** Oh My Zsh with custom prompts
+- **Font:** Fira Code (those ligatures though! ✨)
+- **Workspace:** Minimalist desk with fairy lights and plants 🌿
+- **Essential:** Good coffee, lo-fi playlist, and cozy lighting
 
 ---
 
@@ -33,6 +48,7 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 ![Python](https://img.shields.io/badge/Python-FFE5B4?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF8DC?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-E6F3FF?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-E8F5E8?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-FFE5E5?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Django](https://img.shields.io/badge/Django-E8F5E8?style=for-the-badge&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-F5F5F5?style=for-the-badge&logo=flask&logoColor=000000)
@@ -57,6 +73,20 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yousrakdc&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🐍 Watch My Contributions Get Eaten!
+<div align="center">
+  <img src="https://github.com/yousrakdc/yousrakdc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+### 📊 Detailed GitHub Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousrakdc&show_icons=true&count_private=true&include_all_commits=true&line_height=20&title_color=c77dff&icon_color=9d4edd&text_color=9d4edd&bg_color=0d1117&theme=radical" alt="Detailed Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousrakdc&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
@@ -85,6 +115,9 @@ I love connecting with fellow developers, especially other women in tech! Don't 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yousrakdc&color=c77dff&style=flat-square&label=visitors" alt="Profile Views" />
+  
+  ### ✨ Random Dev Wisdom ✨
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   
   ### Thanks for stopping by! 🌸
   *Keep coding, keep growing, keep being awesome* ✨
