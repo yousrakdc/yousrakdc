@@ -1,4 +1,5 @@
 # Hey there! I'm Yousra 💜
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=c77dff&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%9C;Coding+from+beautiful+France+%F0%9F%87%AB%F0%9F%87%B7;Creating+apps+that+spark+joy+%E2%9C%A8;Coffee+%2B+Code+%3D+Happy+Me+%E2%98%95" alt="Typing SVG" />
 </div>
@@ -10,12 +11,6 @@
 I'm a **fullstack developer** who believes code can be both powerful and pretty! Based in France 🇫🇷, I spend my days crafting applications that not only work beautifully but also make users smile. I'm passionate about clean code, intuitive design, and solving real problems through technology.
 
 When I'm not coding, you'll find me binge-watching The Office for the hundredth time or discovering new coffee shops! ☕
-
-### 🗣️ Languages I Speak
-- 🇫🇷 **French** - Native
-- 🇬🇧 **English** - Fluent  
-- 🇵🇹 **Portuguese** - Fluent
-- 🇪🇸 **Spanish** - Conversational
 
 ### 🌟 Currently
 - 📓 Studying at **Holberton School Toulouse**
@@ -32,6 +27,12 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 - 🎵 Always coding with good music on
 - 📚 Love reading tech blogs and learning new trends
 - 🌸 Obsessed with aesthetic workspaces and cute stationery
+  
+### 🗣️ Languages I Speak
+- 🇫🇷 **French** - Native
+- 🇬🇧 **English** - Fluent  
+- 🇵🇹 **Portuguese** - Fluent
+- 🇪🇸 **Spanish** - Conversational
 
 ### 🎧 Coding Soundtrack
 *Currently obsessed with Aeromoça by Xamã*
@@ -41,7 +42,7 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 - **Terminal:** Oh My Zsh with custom prompts
 - **Font:** Fira Code (those ligatures though! ✨)
 - **Workspace:** Minimalist desk with fairy lights and plants 🌿
-- **Essential:** Good coffee, lo-fi playlist, and cozy lighting
+- **Essential:** Good coffee, reggaeton playlist, and cozy lighting
 
 ---
 
