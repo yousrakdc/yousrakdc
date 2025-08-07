@@ -114,7 +114,7 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 
 </div>
 
-**🎯 Currently Studying:** Software Engineering at Holberton School Toulouse  
+**🎯 Currently Studying:** Web development at Holberton School Toulouse  
 **📊 Certified in:** Google Data Analytics Professional Certificate  
 **🔬 Completed:** IBM Introduction to Data Science
 
