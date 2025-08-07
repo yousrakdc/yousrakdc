@@ -27,10 +27,8 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
 - 📚 Love reading tech blogs and learning new trends
 - 🌸 Obsessed with aesthetic workspaces and cute stationery
 
-### 🎧 Currently Vibing To
-<div align="center">
-  <img src="https://spotify-now-playing-yousrakdc.vercel.app/api/spotify-playing" width="350" alt="Spotify Now Playing" />
-</div>
+### 🎧 Coding Soundtrack
+*Currently obsessed with lo-fi hip hop, indie pop, and the occasional French café music ☕*
 
 ### 💻 My Coding Setup
 - **Editor:** VS Code with a dreamy purple theme 💜
@@ -75,18 +73,9 @@ When I'm not coding, you'll find me binge-watching The Office for the hundredth 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yousrakdc&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 🐍 Watch My Contributions Get Eaten!
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github.com/yousrakdc/yousrakdc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-### 📊 Detailed GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousrakdc&show_icons=true&count_private=true&include_all_commits=true&line_height=20&title_color=c77dff&icon_color=9d4edd&text_color=9d4edd&bg_color=0d1117&theme=radical" alt="Detailed Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousrakdc&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousrakdc&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -116,18 +105,8 @@ I love connecting with fellow developers, especially other women in tech! Don't 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yousrakdc&color=c77dff&style=flat-square&label=visitors" alt="Profile Views" />
   
-  ### ✨ Random Dev Wisdom ✨
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  
   ### Thanks for stopping by! 🌸
-  *Keep coding, keep growing, keep being awesome* ✨
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousrakdc&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
   
-  ### 💖 Thanks for visiting my profile!
-  *"The best way to predict the future is to create it."* - Peter Drucker
+  *Keep coding, keep growing, keep being awesome* ✨
 </div>
