@@ -1,11 +1,5 @@
 # Hey there! I'm Yousra 💜
 
-<div style="background: linear-gradient(135deg, #c77dff 0%, #9d4edd 50%, #7b2cbf 100%); 
-            padding: 60px; text-align: center; color: white; font-family: 'Poppins', sans-serif;">
-  <h1 style="font-size: 3em; margin: 0;">Yousra Kerdouchi</h1>
-  <p style="font-size: 1.2em; margin: 10px 0;">Junior FullStack Developer • France 🇫🇷</p>
-  <p style="font-size: 1em; opacity: 0.9;">Building beautiful web applications ✨</p>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=c77dff&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%9C;Coding+from+France+%F0%9F%87%AB%F0%9F%87%B7;Creating+apps+that+spark+joy+%E2%9C%A8;Coffee+%2B+Code+%3D+Happy+Me+%E2%98%95" alt="Typing SVG" />
